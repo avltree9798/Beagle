@@ -1,0 +1,4 @@
+message="Hello, World!"
+some_number=123
+println message
+println str some_number
